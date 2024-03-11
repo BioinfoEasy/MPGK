@@ -10,7 +10,7 @@ demo1.txt: GWAS summary data of the psoriasis.
 demo2.txt: GWAS summary data of the diabetes.
 demo3.vcf: Gene sequencing results of the diabetes.
 demo3_phe.txt: Phenotype data of diabetes.
-demo4.txt: GWAS summary data of the psoriasis.
+demo4.txt: GWAS summary data of the psoriasis. The demo4 is accessible at this site: https://pan.baidu.com/s/1RQXH3mO8GqV9bcrEkel4lg?pwd=rtvx extraction code: rtvx.
 The GWAS summary file should include the following columns: chr, pos, ref, alt, beta, pval, eaf, and SNP. The phenotype file should consist of four columns: FID, IID, gender, and phenotype.
 
 # software
