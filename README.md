@@ -1,5 +1,9 @@
-# MPGK
-a tool for perform MR, PRS, GO and KEGG analysis
+MPGK is a tool that enables MR, PRS, GO and KEGG analysis. MPGK is built on R and some command line languages. You can run the MPGK programme from the command line.
+
+# Installation of the MPGK programme
+MPGK is currently available for Linux and Mac_OS, and you can download it from https://github.com/BioinfoEasy/MPGK .
+
+# 
 
 The MPGK program includes the following parameters: M for MR, P for PRS, G for GO, and K for KEGG. Additionally, it requires the following input files: an exposure file for MR (specified with the letter e), an outcome file for MR (specified with the letter o), a VCF file of the gene sequencing (specified with the letter v), a phenotype file (specified with the letter f), and GWAS summary data of the disease for which GO and KEGG analyses were performed (specified with the letter d). Finally, a p-value threshold must be specified with the letter p. For assistance, type 'bash MPGK.sh -h' at the shell prompt.
 
