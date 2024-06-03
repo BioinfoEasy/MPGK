@@ -1,7 +1,7 @@
 MPGK is a tool that enables MR, PRS, GO and KEGG analysis. MPGK is built on R and some command line languages. You can run the MPGK programme from the command line.
 
 # Installation of the MPGK programme
-MPGK is currently available for Linux and Mac_OS, and you can download it from https://github.com/BioinfoEasy/MPGK .
+MPGK is currently available for Linux and Mac_OS, and you can download it from https://github.com/BioinfoEasy/MPGK . Take MPGK_Mac as an example, the folder contains Rcode, lib, PRSice_mac, plink, PRSice.R, and MPGK.sh. Among them, MPGK.sh is the main runtime program.
 
 # 
 
